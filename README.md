@@ -8,8 +8,8 @@
 ![Banner](banner.png)
 
 ---
-<!-- 
-### > **[⬇️ Download for Windows](https://github.com/K3rnel-Dev/ShellcodeLoader/releases/tag/Build)** -->
+
+### > **[⬇️ Download for Windows](https://github.com/K3rnel-Dev/ShellcodeLoader/releases/download/Build/Binaries.rar)** 
 
 ---
 

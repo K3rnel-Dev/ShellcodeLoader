@@ -1,9 +1,9 @@
 # 🛡️ <b>DODZE SHELLCODE LOADER & BUILDER (.NET)</b> 
 
-<!-- ![CSHARP](https://img.shields.io/badge/Language-CSHARP-lightgreen?style=for-the-badge&logo=csharp)
+![CSHARP](https://img.shields.io/badge/Language-CSHARP-lightgreen?style=for-the-badge&logo=csharp)
 <img src="https://img.shields.io/github/v/release/K3rnel-Dev/ShellcodeLoader?style=for-the-badge&color=cyan">
 <img src="https://img.shields.io/github/downloads/K3rnel-Dev/ShellcodeLoader/total?style=for-the-badge&color=pink">
-<img src="https://img.shields.io/github/license/K3rnel-Dev/ShellcodeLoader?style=for-the-badge&color=red"></img> -->
+<img src="https://img.shields.io/github/license/K3rnel-Dev/ShellcodeLoader?style=for-the-badge&color=red"></img> 
 
 ![Banner](banner.png)
 
